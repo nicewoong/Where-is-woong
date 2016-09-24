@@ -13,12 +13,12 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="hey, where is woong now?" />
+        android:text="hey, where did you meet woong? \n when you meet woong, \n please click the button below" />
 
     <Button
         android:id="@+id/findingLocationButton"
         android:layout_below="@id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Click to find woong ! "/>
+        android:text="save location !"/>
 </RelativeLayout>
